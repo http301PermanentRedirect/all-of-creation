@@ -47,6 +47,8 @@ The Great Celestial Mechanism is the machinery that keeps Creation together and 
 
 # H3 The Sidereal Year
 
+*[The Current Calendar][1]*
+
 * A year 372 days, divided into 4 seasons of 3 months of 31 days each
 * A Year ends on Midwinter, the shortest day of the year (which is the 31st day of the 12th month) and begins on the day after (the 1st day of the 1st Month)
 * The movement of the sun slows down for six months (from 1 Nivose until 31 Prarial), which causes the days to become warmer and longer; then the sun speeds up for six months (from 1 Messidor until 31 Frimaire) which causes the days to become colder and shorter
@@ -75,3 +77,8 @@ Pre night darkness
 
 
 
+
+
+
+
+[1]: https://app.fantasy-calendar.com/calendars/6e078fe6c4a09f9693e6a106d1443055
