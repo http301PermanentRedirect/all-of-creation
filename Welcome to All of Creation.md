@@ -32,7 +32,7 @@ All Creation lies in the immense volume between the six Elemental Poles: Metal, 
  * The West Pole
 * known as The Lifespring
 #### 6. Air
-* sextidi, the sixth day of the week and the traditional day of rest
+* Sextidi, the sixth day of the week and the traditional day of rest
 * the Charisma attribute
 * The Up Pole
 * known as The Celestial Mechanism
