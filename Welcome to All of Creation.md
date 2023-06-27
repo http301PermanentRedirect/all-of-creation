@@ -110,6 +110,10 @@ The Triton Clade represents all natively-aquatic races including Merfolk, Genasi
 
 The concept of the game is that the party is investigating the disappearance of the entire population of a nearby town. There is a larger mystery at hand, but that's to discover in play.
 
+As for setting feel, rather than mideval England, I'm going more for an Italian Renaissance feeling. Black-powder weapons exist, mostly as muzzle-loaded smooth-bore snaplocks (some experts use rifled barrels to improve accuracy over distance). Metallurgy and science have advanced *just enough* that mechanical clocks are starting to be built for astrologers/astronomers/etc. The reference for black powder weapons is in the DMG if you need to look it up. 
+
+I'm borrowing extremely heavily from French history (including Revolutionary History) so not quite "The Three Musketeers" but pretty close. 
+
 ### Character Creation Rules
 + All characters will start at level 5
 + All characters will use the alternate point-buy ability rules 
@@ -126,8 +130,7 @@ The concept of the game is that the party is investigating the disappearance of 
  + Tabaxi
  + Tortle
  + Thri-kreen
- + Yuan-ti
- + 
+ + Yuan-ti 
 
 
 [1]: https://app.fantasy-calendar.com/calendars/6e078fe6c4a09f9693e6a106d1443055
