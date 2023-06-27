@@ -85,9 +85,49 @@ While there are efforts to more finely divide the time of day, current mechanica
 
 ## The Geography and Kingdoms of Creation
 
+*TKTK*
 
+### The People of Creation
 
+There have been kingdoms of all sorts throughout history, but the current Era has seen the rise of The Five Clades: Humans, Dwarves, Elves, Dragonborn, and Triton. Almost all of the current polities in the Center of Creation are led by one of these five clades. There are three hundred and seventy two kingoms in the Register of Civis, split more or less evenly between them.
 
+The Human Clade includes related races like Halflings, Tieflings, Aasimar, and similar.
+
+The Dwarven Clade includes Dwarves and Goliaths almost exclusively, though throughout history the Dwarven Clade have experimented with creating and adapting other races for servitor roles (see Gnomes and Warforged as examples).
+
+The Elven Clade includes all Fae/Fey races. The Elven Clade has a strict hirearchy of taxonomy with Elves at the top and the goblinoid races at the bottom.
+
+The Dragonborn Clade includes all non-aquatic scaled races: Dragonborn, Lizardfolk, and the metal and chromatic dragons and various offshoots.
+
+The Triton Clade represents all natively-aquatic races including Merfolk, Genasi, and the like.
+
+*More TKTK*
+
+-------
+
+## Gameplay Information
+===
+
+The concept of the game is that the party is investigating the disappearance of the entire population of a nearby town. There is a larger mystery at hand, but that's to discover in play.
+
+### Character Creation Rules
++ All characters will start at level 5
++ All characters will use the alternate point-buy ability rules 
++ Character Race choices are restricted to
+ + Deep Gnome
+ + Firbolg
+ + Goblin
+ + Harengon
+ + Kenku
+ + Kobold
+ + Loxodon
+ + Minotaur
+ + Shifter
+ + Tabaxi
+ + Tortle
+ + Thri-kreen
+ + Yuan-ti
+ + 
 
 
 [1]: https://app.fantasy-calendar.com/calendars/6e078fe6c4a09f9693e6a106d1443055
