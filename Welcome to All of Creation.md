@@ -57,7 +57,10 @@ The Great Celestial Mechanism is the machinery that keeps Creation together and 
 
 ### The Sidereal Day
 
-While there are efforts to more finely divide the time of day, current mechanical expertise does not exist (or at least is quite rare). For common usage, the day is divided into 8 portions that are tied to the location of the Sun. This means that in the winter the middle part of the day is much more compressed, and the overnight parts of the day are stretched out (and vice versa in the summer). The 8 parts of the day are: 
+While there are efforts to more finely divide the time of day, the current mechanical expertise means that these clocks are large installation pieces, usually used in astronomy/astrology and arcane rites and investigation. 
+
+For common usage, the day is divided into 8 portions that are tied to the location of the Sun. This means that in the winter the middle part of the day is much more compressed, and the overnight parts of the day are stretched out (and vice versa in the summer). The 8 parts of the day are: 
+
 #### 1. Matins
 * Nighttime
 * "The Deep Night"
@@ -108,7 +111,7 @@ The Triton Clade represents all natively-aquatic races including Merfolk, Genasi
 ## Gameplay Information
 ===
 
-The concept of the game is that the party is investigating the disappearance of the entire population of a nearby town. There is a larger mystery at hand, but that's to discover in play.
+The concept of the game is that the party is investigating the disappearance of the entire population of a nearby town (it is also possible that you reside in the town and all your neighbors have vanished). There is a larger mystery at hand, but that's to discover in play.
 
 As for setting feel, rather than mideval England, I'm going more for an Italian Renaissance feeling. Black-powder weapons exist, mostly as muzzle-loaded smooth-bore snaplocks (some experts use rifled barrels to improve accuracy over distance). Metallurgy and science have advanced *just enough* that mechanical clocks are starting to be built for astrologers/astronomers/etc. The reference for black powder weapons is in the DMG if you need to look it up. 
 
