@@ -39,7 +39,7 @@ All Creation lies in the immense volume between the six Elemental Poles: Metal, 
 
 ### The Arcana Obscura
 
-In addition, there is an Occult force sometimes known as the Seventh Pole; it does not have an associated direction and is associated with the arcane, the magical, the secret, and the hidden. It is the last (31st) day of every month of the year. It is the only day in the calendar where there are no moons in the sky.
+In addition, there is an Occult force sometimes known as the Seventh Pole; it does not have an associated direction and is associated with the arcane, the magical, the secret, and the hidden. It is the last (31st) day of every month of the year. It is the only day in the calendar where all three (known) moons are in eclipse.
 
 ## The Celestial Mechanism of Time
 
