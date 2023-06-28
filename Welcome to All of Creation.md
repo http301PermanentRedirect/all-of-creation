@@ -134,6 +134,7 @@ I'm borrowing extremely heavily from French history (including Revolutionary His
  + Tortle
  + Thri-kreen
  + Yuan-ti 
+ 
 #### + Allowed Sourcebooks
  + PHB
  + The black powder weapon rules from the DMG
@@ -141,5 +142,5 @@ I'm borrowing extremely heavily from French history (including Revolutionary His
  + The Artificer class from Eberron: Rising from the Last War
  + The Thri-kreen PC Race from Spelljammer: Adventures in Space
  + The PC Races listed above from Modenkainen Presents: Monsters of the Multiverse
- 
+
 [1]: https://app.fantasy-calendar.com/calendars/6e078fe6c4a09f9693e6a106d1443055
