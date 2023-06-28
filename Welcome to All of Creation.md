@@ -53,7 +53,7 @@ The Great Celestial Mechanism is the machinery that keeps Creation together and 
 * A Year ends on Midwinter, the shortest day of the year (which is the 31st day of the 12th month) and begins on the day after (the 1st day of the 1st Month)
 * The movement of the sun slows down for six months (from 1 Nivose until 31 Prarial), which causes the days to become warmer and longer; then the sun speeds up for six months (from 1 Messidor until 31 Frimaire) which causes the days to become colder and shorter
 * Each Season is made up of 3 31-day months grouped broadly by the agricultural activity occuring during those months
-* Each month is divided into 5 weeks of 5 work days plus one rest day each, plus a Hidden Day on the 31st day which is considered a rest day (or, at least, a non-work day) 
+* Each month is divided into 5 weeks of 5 work days plus one rest day each, plus a Hidden Day on the 31st day which is considered a rest day (or, at least, a non-work day)  
 
 ### The Sidereal Day
 
