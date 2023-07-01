@@ -19,12 +19,12 @@ All Creation lies in the immense volume between the six Elemental Poles: Metal, 
 #### 3. Stone
  * Tridi, the third day of the week
  * the Constitution attribute
- * the Down Pole
+ * the East Pole
  * known as The Foundation
 #### 4. Water
  * Quartidi, the fourth day of the week
  * the Intelligence attribute
- * The East Pole
+ * The Central Pole
  * known as The World Ocean
 #### 5. Wood
  * Quintidi, the fifth day of the week
@@ -34,7 +34,7 @@ All Creation lies in the immense volume between the six Elemental Poles: Metal, 
 #### 6. Air
 * Sextidi, the sixth day of the week and the traditional day of rest
 * the Charisma attribute
-* The Up Pole
+* The Celestial Pole
 * known as The Celestial Mechanism
 
 ### The Arcana Obscura
